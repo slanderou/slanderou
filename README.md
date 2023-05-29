@@ -9,3 +9,6 @@
 <img src="https://img.shields.io/badge/go--cqhttp-1.0.0-red">
 </span>
 
+<a href="#">
+         <img src="https://slanderou-readme.vercel.app/api/readme" width="100%" height="1000px" alt="诶……刷新试试？"/>
+</a>
